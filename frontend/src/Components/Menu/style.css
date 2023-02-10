@@ -1,0 +1,11 @@
+.Menu{
+	background-color:#E7E7E7;
+	padding: 15px;
+	min-height: 50px;
+}
+.Menu ul {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	list-style: none;
+}
